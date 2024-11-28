@@ -1,0 +1,20 @@
+record start time: 20241120_134850
+
+OAK device MxId: 19443010C1DAFE1200
+
+camera left: MonoCamera
+     board socket: CameraBoardSocket.CAM_B
+     fps: 20.0
+     resolution:  THE_400_P = (640 x 400)
+     Intrinsics: [794.1887817382812, 0.0, 669.4923706054688]
+                 [0.0, 793.7903442382812, 407.7864685058594]
+                 [0.0, 0.0, 1.0]
+
+camera right: MonoCamera
+     board socket: CameraBoardSocket.CAM_C
+     fps: 20.0
+     resolution:  THE_400_P = (640 x 400)
+     Intrinsics: [779.66552734375, 0.0, 637.9945068359375]
+                 [0.0, 779.7642211914062, 416.2479553222656]
+                 [0.0, 0.0, 1.0]
+
